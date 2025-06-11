@@ -12,8 +12,8 @@ Nesse projeto, objetivo é criar um sistema de gestão de hotel, utilizando tecn
     - Arquivos específicos do sistema operacional e do caminho onde foram criadas;
     - Não ser portáveis entre diferentes máquinas/sistemas;
     - Facilidade na reconstrução do repositório a partir do `requirements.txt` ou `pyproject.toml`.
-    
-    Então para poder cria-lo novamente, abra o terminal ( seguinte comando:`ctrl+""`) e digite a seguinte linha de código, logo após acesse o ambiente virtual:
+
+    Se você não conseguir acessar a venv baixada do projeto,exclua e crie a novamente, então para poder cria-lo novamente, abra o terminal ( seguinte comando:`ctrl+""`) e digite a seguinte linha de código, logo após acesse o ambiente virtual:
     
     ```bash
     python -m venv venv  #Criando o ambiente 
